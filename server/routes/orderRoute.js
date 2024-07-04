@@ -41,6 +41,7 @@ router.post("/placeorder", async (req, res) => {
                 },
                 transectionId: payment.source.id,
             });
+            console.log('newOrder', newOrder)
             newOrder.save();
             res.send("Payment Success");
         } else {
@@ -56,6 +57,7 @@ router.post("/placeorder", async (req, res) => {
 
 router.post("/getuserorder", async (req, res) => {
     const { userid } = req.body;
+    console.log('userid', userid)
     try {
         const orders = await Order.find({ userid }).sort({ _id: "-1" });
         res.status(200).send(orders);

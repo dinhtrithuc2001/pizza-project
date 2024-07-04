@@ -13,7 +13,7 @@ const NavBar = () => {
     const { currentUser } = useSelector((state) => state.loginUserReducer)
 
     return (
-        <>
+        <>  
             <Navbar collapseOnSelect expand="lg" bg="light" variant="light">
                 <Container>
                     <Navbar.Brand >

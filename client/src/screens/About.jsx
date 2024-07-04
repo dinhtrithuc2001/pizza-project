@@ -23,16 +23,10 @@ const About = () => {
                 <Row>
                     <h1>Đầu bếp của chúng tôi</h1>
                     <Col md={3}>
-                        <img src="https://media.licdn.com/dms/image/D5603AQH3dNA_t3UQiQ/profile-displayphoto-shrink_800_800/0/1680891406190?e=1686182400&v=beta&t=L2X6SHd8yTSa4HFN4QpvWgcVZAm5UEFSgmE-HAW1uzk" alt="" style={{ width: "100%", height: 250 }} />
+                        <img src="https://scontent.fpnh11-2.fna.fbcdn.net/v/t39.30808-6/300855209_2893292097631928_5672312696758360837_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeEZimqjYozgjzB4eRPSFa24kyluwEB58xqTKW7AQHnzGrnoRSHH10UxcY2jszwYtVirC_ma8lT0ZQFH0jYxt9g0&_nc_ohc=l1dTxR2E-1oQ7kNvgGNuO9I&_nc_ht=scontent.fpnh11-2.fna&oh=00_AYAq-byKyTxRTvnshSWLQBPixM-iLmYVfQ0wXHlWkJCsVA&oe=668B49AD" alt="" style={{ width: "100%", height: 250 }} />
                     </Col>
                     <Col md={3}>
-                        <img src="https://scontent.fsgn13-4.fna.fbcdn.net/v/t1.6435-9/133201823_465843014409987_8378772611988159967_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=egrsDvAru3wAX8TrtS1&_nc_ht=scontent.fsgn13-4.fna&oh=00_AfCRYOCRzerv_kIYHauQ12PWluGojfF6hpiYEuimQKPjiQ&oe=6457C8CB" alt="" style={{ width: "100%", height: 250 }} />
-                    </Col>
-                    <Col md={3}>
-                        <img src="https://scontent.fsgn3-1.fna.fbcdn.net/v/t39.30808-6/337018068_1027234641493020_436915309408511472_n.jpg?stp=cp6_dst-jpg&_nc_cat=104&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=65suKzK08iMAX9fOYEU&_nc_ht=scontent.fsgn3-1.fna&oh=00_AfA8Y3KT-A41adhrwzLiTxhPlqN8C8LnL_L3WsNFOBtZlg&oe=64355F55" alt="" style={{ width: "100%", height: 250 }} />
-                    </Col>
-                    <Col md={3}>
-                        <img src="https://scontent.fsgn8-3.fna.fbcdn.net/v/t39.30808-6/337231611_222311113614654_2899483368418348748_n.jpg?stp=cp6_dst-jpg&_nc_cat=106&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=iSrutk8vSSMAX81ouuk&_nc_ht=scontent.fsgn8-3.fna&oh=00_AfAEqvqiBilnYc1tnT5b07z5QNlL0uWV7SukR2Uf1IGiiQ&oe=64350380" alt="" style={{ width: "100%", height: 250 }} />
+                        <img src="https://scontent.fpnh11-1.fna.fbcdn.net/v/t39.30808-6/326548872_3452795061671889_7799638967858735965_n.jpg?stp=cp6_dst-jpg&_nc_cat=105&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeEfkCjG-GPRtWYw8Cr5zBk79fqm2lQoHN_1-qbaVCgc37NhpF7yHGcYdwkbBmMvYsNt1AzQaGkENl4SOy-KEBXo&_nc_ohc=MFweUsOOYBQQ7kNvgGoOIsV&_nc_ht=scontent.fpnh11-1.fna&oh=00_AYAe2m74akNyPRxEAqiKVyeiEstNEwe7bEjEyngUvwnRyg&oe=668B6EBD" alt="" style={{ width: "100%", height: 250 }} />
                     </Col>
                 </Row>
             </Container>
